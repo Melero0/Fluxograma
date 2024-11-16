@@ -1,1 +1,2 @@
-# Fluxograma
+  *Fluxograma* 
+°Pensamento lógico
